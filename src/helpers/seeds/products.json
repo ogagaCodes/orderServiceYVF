@@ -1,0 +1,26 @@
+[
+    {
+        "product_name": "Gucci Watch",
+        "product_category": "Jewelries",
+        "quantity_in_stock": 200,
+        "amount":20000
+    },
+    {
+        "product_name": "GoldChain",
+        "product_category": "Jewelries",
+        "quantity_in_stock": 100,
+        "amount":50000
+    },
+    {
+        "product_name": "Mac book",
+        "product_category": "Computers",
+        "quantity_in_stock": 200,
+        "amount":200000
+    },
+    {
+        "product_name": "LG Tv ",
+        "product_category": "Acessories",
+        "quantity_in_stock": 200,
+        "amount":500000
+    }
+]
